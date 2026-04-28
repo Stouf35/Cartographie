@@ -7,7 +7,7 @@ réalisée comme projet de validation du [MOOC Cartographie](https://www.courser
 
 Les données représentées :
 - Zones urbaines
-- Cours d'eau
+- Cours d'eau et principaux plans d'eau
 - Bois et forêts
 - Zones Natura 2000
 
@@ -18,7 +18,6 @@ Les données représentées :
 
 ## Sources de données
 
-- [OpenStreetMap](https://www.openstreetmap.org) *(si applicable)*
 - [IGN / BD TOPO](https://geoservices.ign.fr)
 - [INPN — Natura 2000](https://inpn.mnhn.fr/programme/natura2000)
 
