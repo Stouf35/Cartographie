@@ -18,8 +18,8 @@ Les données représentées :
 
 ## Sources de données
 
-- [IGN / BD TOPO](https://geoservices.ign.fr)
-- [INPN — Natura 2000](https://inpn.mnhn.fr/programme/natura2000)
+- [Corine Land Cover](https://www.data.gouv.fr)
+- [Natura 2000](https://www.geocatalogue.fr)
 
 ## Outils
 
