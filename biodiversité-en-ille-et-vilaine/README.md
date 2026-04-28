@@ -13,8 +13,8 @@ Les données représentées :
 
 ## Fichiers
 
-- `carte.svg` — version vectorielle, modifiable sous Inkscape
-- `carte.pdf` — version imprimable
+- `Biodiversité_en_Ille_et_Vilaine.svg` — version vectorielle, modifiable sous Inkscape
+- `Biodiversité_en_Ille_et_Vilaine.pdf` — version imprimable
 
 ## Sources de données
 
