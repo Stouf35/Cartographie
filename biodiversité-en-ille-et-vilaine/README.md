@@ -1,6 +1,6 @@
 # Occupation du sol en Ille-et-Vilaine
 
-![Aperçu de la carte](carte.svg)
+![Aperçu de la carte](Biodiversité_en_Ille_et_Vilaine.svg)
 
 Carte représentant l'occupation du sol du département d'Ille-et-Vilaine (35),
 réalisée comme projet de validation du [MOOC Cartographie](https://www.coursera.org/learn/cartographie) (Coursera).
