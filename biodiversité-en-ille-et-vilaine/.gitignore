@@ -1,0 +1,14 @@
+gitignore# Couches sources (trop volumineuses)
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+
+# Fichiers QGIS temporaires
+*.qgd
+*.qgz.lock
+
+# Système Windows
+Thumbs.db
+desktop.ini
