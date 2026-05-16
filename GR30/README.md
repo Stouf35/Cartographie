@@ -38,14 +38,14 @@ Réalisation d'un projet cartographique / SIG avant de marcher le GR30.
 
 	- *La légende est dans l'aperçu global. Désolé si ce n'est pas pratique*
 	
-	![Aperçu de la carte](Atlas/Atlas_GR30_p1.png)
-	![Aperçu de la carte](Atlas/Atlas_GR30_p2.png)
-	![Aperçu de la carte](Atlas/Atlas_GR30_p3.png)
-	![Aperçu de la carte](Atlas/Atlas_GR30_p4.png)
-	![Aperçu de la carte](Atlas/Atlas_GR30_p5.png)
-	![Aperçu de la carte](Atlas/Atlas_GR30_p6.png)
-	![Aperçu de la carte](Atlas/Atlas_GR30_p7.png)
-	![Aperçu de la carte](Atlas/Atlas_GR30_p8.png)
+	![Page 1](Atlas/Atlas_GR30_p1.png)
+	![Page 2](Atlas/Atlas_GR30_p2.png)
+	![Page 3](Atlas/Atlas_GR30_p3.png)
+	![Page 4](Atlas/Atlas_GR30_p4.png)
+	![Page 5](Atlas/Atlas_GR30_p5.png)
+	![Page 6](Atlas/Atlas_GR30_p6.png)
+	![Page 7](Atlas/Atlas_GR30_p7.png)
+	![Page 8](Atlas/Atlas_GR30_p8.png)
 	
 	
 	> *Penser à la Carte IGN Top 75 Chaîne des Puys et Massif du Sancy pour la rando en Auvergne*
