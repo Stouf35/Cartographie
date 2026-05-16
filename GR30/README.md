@@ -23,7 +23,7 @@ Réalisation d'un projet cartographique / SIG avant de marcher le GR30.
 
 ## Fichiers
 
-	'Atlas/Atlas GR30_*.png' - 8 pages de l'Atlas
+	'Atlas/Atlas_GR30_*.png' - 8 pages de l'Atlas
 	'GR30.qgz' - Projet QGIS autour du GR30
 	'GR30.qgz' - Atlas du projet autour du GR30, 8 pages
 	*Les fichiers *.shp répertoriant les données représentées sont absent du dépôt github.*
